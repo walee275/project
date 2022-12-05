@@ -1,0 +1,34 @@
+#main{
+    /* background-color: rgb(221, 118, 118); */
+    background-image: url(./images/pexels-aleksandar-pasaric-325185.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+.container{
+    /* margin-top: 100px; */
+    border-radius: 0px;
+    background-image: url(./images/pexels-aleksandar-pasaric-325185.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+
+#login{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: gray;
+}
+
+.login{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 70px;
+
+/* color: gray; */
+}
+
+#btnwidth{
+ 
+    width: 200px;
+}
